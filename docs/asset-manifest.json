@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Spam-SMS-Classifier/static/css/main.ff6541a1.chunk.css",
+    "main.js": "/Spam-SMS-Classifier/static/js/main.7b3f6228.chunk.js",
+    "main.js.map": "/Spam-SMS-Classifier/static/js/main.7b3f6228.chunk.js.map",
+    "runtime-main.js": "/Spam-SMS-Classifier/static/js/runtime-main.d5d1cbdf.js",
+    "runtime-main.js.map": "/Spam-SMS-Classifier/static/js/runtime-main.d5d1cbdf.js.map",
+    "static/js/2.ccb39116.chunk.js": "/Spam-SMS-Classifier/static/js/2.ccb39116.chunk.js",
+    "static/js/2.ccb39116.chunk.js.map": "/Spam-SMS-Classifier/static/js/2.ccb39116.chunk.js.map",
+    "index.html": "/Spam-SMS-Classifier/index.html",
+    "static/css/main.ff6541a1.chunk.css.map": "/Spam-SMS-Classifier/static/css/main.ff6541a1.chunk.css.map",
+    "static/js/2.ccb39116.chunk.js.LICENSE.txt": "/Spam-SMS-Classifier/static/js/2.ccb39116.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5d1cbdf.js",
+    "static/js/2.ccb39116.chunk.js",
+    "static/css/main.ff6541a1.chunk.css",
+    "static/js/main.7b3f6228.chunk.js"
+  ]
+}
