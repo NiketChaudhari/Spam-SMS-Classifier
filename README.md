@@ -1,11 +1,11 @@
 ## Tools Used :
 
 #### Front-End :
-##### HTML5, CSS3
-##### JavaScript (React JS)
+HTML5, CSS3
+JavaScript (React JS)
 
 #### Back-End :
-##### Python (Flask)
+Python (Flask)
 
 
 #### Api (Flask Server) : https://spam-sms-classifier-ap.herokuapp.com
